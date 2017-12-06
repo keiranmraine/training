@@ -18,6 +18,8 @@
 #     terraform-training-fly
 #
 
+xx$
+
 variable "aws_access_key" {
   type = "string"
 }
