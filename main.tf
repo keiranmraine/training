@@ -32,7 +32,7 @@ variable "aws_region" {
 }
 
 variable "instances" {
-  default = 2
+  default = 3
 }
 
 terraform {
